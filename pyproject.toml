@@ -21,6 +21,7 @@ dependencies = [
     "streamlit>=1.41.1",
     "streamlit-pdf-viewer>=0.0.21",
     "torch>=2.6.0",
+    "youtube-transcript-api>=0.6.3",
 ]
 
 [dependency-groups]
