@@ -1,6 +1,13 @@
 #! /usr/bin/env python3
 """
 Senior Data Scientist.: Dr. Eddy Giusepe Chirinos Isidro
+
+Baseado no repositório de "Raghu6798"
+
+Execução do script
+==================
+
+streamlit run app.py
 """
 import streamlit as st
 
